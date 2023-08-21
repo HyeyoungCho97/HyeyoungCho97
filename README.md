@@ -1,4 +1,9 @@
-### Hi there 👋
+### 안녕하세요👋 결국은 해내고야마는 개발자, 조혜영입니다.
+열정 넘치는 신입 개발자로, 배우는 것을 즐기며 빠르게 성장하고 있는 중입니다. 
+
+### Hi there👋 I am a developer who ultimately gets things done, Hyeyoung Cho.
+I am an aspiring developer just starting out, enthusiastic about learning and rapidly growing in the field. 
+
 
 <!--stat 표시-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeyoungCho97&show_icons=true&theme=radical)
