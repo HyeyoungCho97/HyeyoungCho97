@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [YourName]!
+# 👋 Hi, I'm Hyeyoung!
 
 Welcome to my GitHub.
 
