@@ -1,26 +1,37 @@
-### 안녕하세요👋 개발자, 조혜영입니다.
-열정 넘치는 신입 개발자로, 배우는 것을 즐기며 빠르게 성장하고 있는 중입니다.   
-연극과 인문학을 사랑하고, 코드를 작성하는 동안에도 무대 위의 배우처럼 창의적이고자 노력합니다.   
-I am an aspiring developer just starting out, enthusiastic about learning and rapidly growing in the field.    
-I love theater and humanities, and I strive to be creative like an actor on stage even while writing code.      
-   
-> 💻 IT미디어공학과 졸업
-> > 🦁 멋쟁이사자처럼 6~7기 운영진
-   
-   
-<!--stat 표시-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeyoungCho97&show_icons=true&theme=radical)
-<!--
-**HyeyoungCho97/HyeyoungCho97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm [YourName]!
 
-Here are some ideas to get you started:
+Welcome to my GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer who loves learning and believes in steady growth through effort and curiosity.
+
+---
+
+### 🌱 About Me
+
+- Always open to new technologies and ideas.
+- Believe that persistence is more important than speed.
+- Learning something new every day and applying it to real projects.
+- Enjoy building things that solve real problems.
+
+---
+
+### 🛠️ Skills I'm Growing
+
+- **Frontend**: React, Next.js
+- **Backend**: Node.js (NestJS), Spring Boot, Django
+- **Database**: PostgreSQL, MySQL, SQL
+- **Others**: Prisma ORM, Git, Docker (learning), Basic DevOps
+
+---
+
+### 🚀 Goals
+
+- Keep improving one step at a time.
+- Build meaningful products through teamwork and creativity.
+- Never stop learning and challenging myself.
+
+---
+
+> 📚 "Growth happens when you show up every day, ready to learn."
+
+Thanks for stopping by! 🌟
